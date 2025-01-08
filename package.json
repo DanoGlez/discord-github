@@ -1,0 +1,21 @@
+{
+  "name": "discord-gihub",
+  "version": "1.0.0",
+  "description": "Discord bot to monitor github logs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js --ignore whitelist/data.json"
+  },
+  "keywords": [],
+  "author": "danoglez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.3.1",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
