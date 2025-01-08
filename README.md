@@ -51,4 +51,4 @@ Edit the `data/config.json` file to configure the bot settings:
     "discord_log": "your_log_channel_id",
     "color": "#ffecea"
   }
-}# 
+}
